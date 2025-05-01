@@ -45,3 +45,8 @@ Modify your LangChain retriever (or whatever framework you’re using) to:
 	•	Load the corresponding text chunks
 	•	Run similarity search on user input
 	•	Return top-matching chunks to LLaMA 2 for generation
+
+
+
+![image](https://github.com/user-attachments/assets/ad618197-0eb7-42eb-a381-da813d7d3ab4)
+
